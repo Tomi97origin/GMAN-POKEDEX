@@ -1,0 +1,2 @@
+# GMAN-pokedex
+# GMAN-POKEDEX
